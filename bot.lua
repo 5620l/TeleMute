@@ -13,8 +13,8 @@ redis = (loadfile "./libs/redis.lua")()
 serpent = require('serpent')
 serp = require 'serpent'.block
 sudo_users = {
-  238773538,
-  173606679,
+  189308877,
+  0,
   0
 }
 
